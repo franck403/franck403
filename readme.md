@@ -4,5 +4,5 @@
 - 🔭 Je vais codé *[kanawa.fr](https://kanawa.fr)*
 - 🔭 Je code Actuelement *[chat.geoloup.com](https://chat.geoloup.com)*
 - 🌱 Je suis le propriétaire de Geoloup team
-- ⚡ Fact: Je suis un programmeur HTML, CSS, JS, PYTHON, LUA, MICROPYTHON
+- ⚡ Fact: Je suis un programmeur HTML, CSS, JS, PYTHON, LUA, MICROPYTHON et Firebase Realtime database JS
 - 💯 J'ai fait un package pour controler un RaspberryPi et un site de codage pour RP pico
