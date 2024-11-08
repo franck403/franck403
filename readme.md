@@ -1,8 +1,5 @@
 # Salut toi 👋
-### Je m'appelle Gilaxy04 et voici ce que je fait:
-
-- 🔭 Je code Actuelement *[chat.geoloup.com](https://ic-hat.geoloup.com)*
+### Je suis Gilaxy04 et voici ce que je fait:
+![Static Badge](https://img.shields.io/badge/Code-Python-yellow)  ![Static Badge](https://img.shields.io/badge/Code-Html%2CCss%2CJs-blue)  ![Static Badge](https://img.shields.io/badge/Code-NodeJs-vert)  ![Static Badge](https://img.shields.io/badge/Code-Lua-purple)  ![Static Badge](https://img.shields.io/badge/Code-micropython-orange)  ![Static Badge](https://img.shields.io/badge/Code-firebase-orange)
 - 🌱 Je suis le propriétaire de Geoloup team
-- ⚡ Fact: Je suis un programmeur HTML, CSS, JS, PYTHON, LUA, MICROPYTHON, Firebase Realtime database JS, NodeJS et Electron.js
-- 💯 J'ai fait un package pour controler un RaspberryPi et un site de codage pour RP pico
-- 🤩 J'ai fait plus de 1,481 contributions en 2024 et 3,681 contributions en 2023
+ ![Contributions](https://zupimages.net/up/24/45/wpvs.png)
